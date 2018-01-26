@@ -372,7 +372,7 @@ module.exports = () => ({
 ```
 
 ```
-./node_modules/.bin/http2server start --config exercises/options.js 
+./node_modules/.bin/http2server start --config exercises/options.js
 ```
 
 ## Introducing: @http2/live
